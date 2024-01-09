@@ -1,10 +1,10 @@
 # 练习题（01.09）
 
-![IMG0_Task](./0109_RemixAndTransfer/images/IMG0_Task.png)
+![IMG0_Task](./images/IMG0_Task.png)
 
 ## 安装 Metamask、并创建好账号、向同桌的地址执⾏⼀次转账
 
-![IMG1_Metamask](./0109_RemixAndTransfer/images/IMG1_Metamask.png)
+![IMG1_Metamask](./images/IMG1_Metamask.png)
 
 **区块链网络：**
 
@@ -18,7 +18,7 @@ Ethereum Goerli Testnet
 
 https://goerli.etherscan.io/tx/0x6fc24e590792e57f4b668e7ec0cf8bec0034d5a747419f693a3f96ceae77046e
 
-![IMG2_Tx](./0109_RemixAndTransfer/images/IMG2_Tx.png)
+![IMG2_Tx](./images/IMG2_Tx.png)
 
 ## 使⽤ Remix 创建⼀个Counter合约并部署到测试⽹:
 
